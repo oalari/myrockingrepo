@@ -1,6 +1,6 @@
 package guru99.gittest;
 
-import org.testng.annotations.Test;
+import org.junit.Test;
 
 public class AppTest {
 @Test
